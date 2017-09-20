@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VotingApplication</string>
+    <string name="hello_world">Hello World</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="signup2">Sign up 2</string>
+
+
+</resources>
